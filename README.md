@@ -7,7 +7,7 @@ Springboot app with HTTPSession with Redis to test HTTPSession behind load balan
 
 ### 1.1 Pre-requsites
 
-In my dev box, I created .env file which consumes by docker-compose and inject the environment variable. This format of .env file is:
+In my dev box, I created .env file which is consumed by docker-compose and injects the environment variable. This format of .env file is:
 ```
 REDIS_HOST=${MY_AZURE_REDIS_INSTANCE_HOST}
 REDIS_PORT=6380
