@@ -1,5 +1,6 @@
 HELP.md
 set-env*.*
+.env
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
